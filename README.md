@@ -1,6 +1,6 @@
 # Image Similarity using Deep Ranking
 
-This repository is based on [this](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978) blog. Please refer it to understand how Deep Ranking works.  
+This repository is based on [this](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978) blog. Please refer it to understand how [Deep Ranking](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42945.pdf) works.  
 
 ## ImageDataGeneratorCustom.py
 
